@@ -1,3 +1,3 @@
 print("test..........")
 print("changed ")
-print("its a cahnage")
+print("its a change")
